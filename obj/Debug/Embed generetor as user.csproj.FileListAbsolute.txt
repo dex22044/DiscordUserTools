@@ -1,0 +1,36 @@
+C:\Users\dex22044\source\repos\DiscordApiAsUser\Embed generetor as user\obj\Debug\Embed generetor as user.csprojAssemblyReference.cache
+C:\Users\dex22044\source\repos\DiscordApiAsUser\Embed generetor as user\obj\Debug\MainWindow.g.cs
+C:\Users\dex22044\source\repos\DiscordApiAsUser\Embed generetor as user\obj\Debug\App.g.cs
+C:\Users\dex22044\source\repos\DiscordApiAsUser\Embed generetor as user\obj\Debug\Embed generetor as user_MarkupCompile.cache
+C:\Users\dex22044\source\repos\DiscordApiAsUser\Embed generetor as user\obj\Debug\Embed generetor as user_MarkupCompile.lref
+C:\Users\dex22044\source\repos\DiscordApiAsUser\Embed generetor as user\bin\Debug\Embed generetor as user.exe.config
+C:\Users\dex22044\source\repos\DiscordApiAsUser\Embed generetor as user\bin\Debug\Embed generetor as user.exe
+C:\Users\dex22044\source\repos\DiscordApiAsUser\Embed generetor as user\bin\Debug\Embed generetor as user.pdb
+C:\Users\dex22044\source\repos\DiscordApiAsUser\Embed generetor as user\bin\Debug\DSharpPlus.dll
+C:\Users\dex22044\source\repos\DiscordApiAsUser\Embed generetor as user\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dex22044\source\repos\DiscordApiAsUser\Embed generetor as user\bin\Debug\DSharpPlus.xml
+C:\Users\dex22044\source\repos\DiscordApiAsUser\Embed generetor as user\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dex22044\source\repos\DiscordApiAsUser\Embed generetor as user\obj\Debug\MainWindow.baml
+C:\Users\dex22044\source\repos\DiscordApiAsUser\Embed generetor as user\obj\Debug\Embed generetor as user.g.resources
+C:\Users\dex22044\source\repos\DiscordApiAsUser\Embed generetor as user\obj\Debug\Embed_generetor_as_user.Properties.Resources.resources
+C:\Users\dex22044\source\repos\DiscordApiAsUser\Embed generetor as user\obj\Debug\Embed generetor as user.csproj.GenerateResource.cache
+C:\Users\dex22044\source\repos\DiscordApiAsUser\Embed generetor as user\obj\Debug\Embed generetor as user.csproj.CoreCompileInputs.cache
+C:\Users\dex22044\source\repos\DiscordApiAsUser\Embed generetor as user\obj\Debug\Embed generetor as user.csproj.CopyComplete
+C:\Users\dex22044\source\repos\DiscordApiAsUser\Embed generetor as user\obj\Debug\Embed generetor as user.exe
+C:\Users\dex22044\source\repos\DiscordApiAsUser\Embed generetor as user\obj\Debug\Embed generetor as user.pdb
+C:\Users\dex22044\source\repos\DiscordApiAsUser\Embed generetor as user\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\dex22044\source\repos\DiscordApiAsUser\Embed generetor as user\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\dex22044\source\repos\DiscordApiAsUser\Embed generetor as user\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\dex22044\source\repos\DiscordApiAsUser\Embed generetor as user\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\dex22044\source\repos\DiscordApiAsUser\Embed generetor as user\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\dex22044\source\repos\DiscordApiAsUser\Embed generetor as user\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\dex22044\source\repos\DiscordApiAsUser\Embed generetor as user\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\dex22044\source\repos\DiscordApiAsUser\Embed generetor as user\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\dex22044\source\repos\DiscordApiAsUser\Embed generetor as user\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\dex22044\source\repos\DiscordApiAsUser\Embed generetor as user\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\dex22044\source\repos\DiscordApiAsUser\Embed generetor as user\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\dex22044\source\repos\DiscordApiAsUser\Embed generetor as user\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\dex22044\source\repos\DiscordApiAsUser\Embed generetor as user\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\dex22044\source\repos\DiscordApiAsUser\Embed generetor as user\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\dex22044\source\repos\DiscordApiAsUser\Embed generetor as user\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\dex22044\source\repos\DiscordApiAsUser\Embed generetor as user\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll

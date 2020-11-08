@@ -1,0 +1,20 @@
+﻿<UserControl x:Class="DiscordUserTools.Forms.CustomTools"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:DiscordUserTools.Forms"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="100"/>
+            <RowDefinition Height="30"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+        <CheckBox x:Name="MessageAutoEmbedder" Checked="EnableAutoEmbedder" Unchecked="DisableAutoEmbedder" Content="Автоматическое преобразование не пустых сообщений в embed" VerticalAlignment="Center"/>
+        <RadioButton GroupName="AutoEmbedderMode" x:Name="AutoEmbedderMode1" HorizontalAlignment="Right" Content="Изменение сообщения (с изображениями работает некорректно)" Margin="0,10,10,0" VerticalAlignment="Top" Checked="SetAutoEmbedderMode1"/>
+        <RadioButton GroupName="AutoEmbedderMode" x:Name="AutoEmbedderMode2" HorizontalAlignment="Right" Content="Удаление сообщения и создание нового" Margin="0,0,10,10" VerticalAlignment="Bottom" Checked="SetAutoEmbedderMode2"/>
+    </Grid>
+</UserControl>

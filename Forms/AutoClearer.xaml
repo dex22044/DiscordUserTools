@@ -1,0 +1,40 @@
+﻿<UserControl x:Class="DiscordUserTools.Forms.AutoClearer"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:DiscordUserTools.Forms" xmlns:xctk="http://schemas.xceed.com/wpf/xaml/toolkit"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="24"/>
+            <RowDefinition Height="24"/>
+            <RowDefinition Height="25"/>
+            <RowDefinition Height="25"/>
+            <RowDefinition Height="25"/>
+            <RowDefinition Height="1*"/>
+        </Grid.RowDefinitions>
+
+        <Label Content="ID сообщения, с которого начать чистку:" Grid.Row="0" Grid.Column="0"/>
+        <TextBox x:Name="ClearerMsgId" Grid.Row="0" Grid.Column="1"/>
+
+        <Label Content="Кол-во сообщений" Grid.Row="1" Grid.Column="0"/>
+        <xctk:IntegerUpDown x:Name="ClearCount" Grid.Row="1" Grid.Column="1"/>
+
+
+        <Label Content="ID сервера (нужен всегда)" Grid.Row="2" Grid.Column="0" Margin="0 -4 0 0"/>
+        <Label Content="ID канала (или пользователя)" Grid.Row="3" Grid.Column="0" Margin="0 -4 0 0"/>
+
+        <TextBox  x:Name="GuildId"   Grid.Column="1"        Grid.Row="2"                 HorizontalAlignment="Stretch"/>
+        <TextBox  x:Name="ChannelId" Grid.Column="1"        Grid.Row="3"                 HorizontalAlignment="Stretch"/>
+        <CheckBox x:Name="IsDirect"  Content="В личку?"     Grid.Row="4"                 HorizontalAlignment="Stretch"/>
+        <CheckBox x:Name="OnlyMine"  Content="Только свои?" Grid.Row="4" Grid.Column="1" HorizontalAlignment="Stretch"/>
+
+        <Button Content="Очистить" Grid.Column="0" Grid.Row="5" Grid.ColumnSpan="2" FontSize="72" Click="Clear"/>
+    </Grid>
+</UserControl>
