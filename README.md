@@ -8,3 +8,5 @@
 
 Для этой программы нужен user-токен дискорда.
 Вот как его получить: https://discordhelp.net/discord-token
+
+Демонстрация проги: https://youtu.be/43vwky2hntQ
