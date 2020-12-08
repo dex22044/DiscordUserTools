@@ -40,7 +40,7 @@ namespace DiscordUserTools
             {
                 userClient = new DiscordClient(new DiscordConfiguration
                 {
-                    Token = TokenBox.Text,
+                    Token = TokenBox.Password,
                     TokenType = TokenType.User
                 });
 
